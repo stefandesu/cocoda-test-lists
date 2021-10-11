@@ -1,0 +1,11 @@
+{
+  "prefLabel": {
+    "en": "Test List from GitHub Pages"
+  },
+  "schemes": [{
+    "uri": "http://bartoc.org/en/node/241"
+  }],
+  "concepts": [{
+    "uri": "http://dewey.info/class/3/e23/"
+  }]
+}
