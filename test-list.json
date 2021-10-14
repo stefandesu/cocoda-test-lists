@@ -1,11 +1,28 @@
 {
   "prefLabel": {
-    "en": "Test List from GitHub Pages"
+    "en": "Test Custom List"
   },
   "schemes": [{
     "uri": "http://bartoc.org/en/node/241"
   }],
-  "concepts": [{
-    "uri": "http://dewey.info/class/3/e23/"
-  }]
+  "concepts": [
+    {
+      "uri": "http://dewey.info/class/004/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/006.3/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/612.111/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/612.112/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/617.48/e23/"
+    },
+    {
+      "uri": "http://dewey.info/class/750/e23/"
+    }
+  ]
 }
