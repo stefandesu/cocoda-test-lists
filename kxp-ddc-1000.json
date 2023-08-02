@@ -1005,6 +1005,6 @@
     {"uri":"http://dewey.info/class/305.805-305.89/e23/","_count":718,"notation":["305.805-305.89","---.--805---"]},
     {"uri":"http://dewey.info/class/570/e23/","_count":717,"notation":["570","---.----70-"]},
     {"uri":"http://dewey.info/class/781.64/e23/","_count":717,"notation":["781.64","---.78164"]},
-    {"uri":"http://dewey.info/class/786.2-786.5/e23/","_count":717,"notation":["786.2-786.5","---.--------3"]},
+    {"uri":"http://dewey.info/class/786.2-786.5/e23/","_count":717,"notation":["786.2-786.5","---.--------3"]}
   ]
 }
